@@ -1,0 +1,5 @@
+# Dynamic Programming: Optimal Substructure
+
+TIL that optimal substructure can be identified in Dynamic Programming if a set of subsolutions can be used to compute the larger solution. 
+
+Memoization is often used to store the values of previous subsolutions.
